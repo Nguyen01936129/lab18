@@ -1,0 +1,20 @@
+
+img {
+    height: 100vh;
+}
+
+.title {
+    color: white;
+}
+
+.detail {
+    color: rgb(240, 235, 235);
+}
+
+ .custom_btn_slide {
+    background-color: white!important;
+ }
+
+ .carousel-control-prev-icon,  .carousel-control-next-icon {
+    filter: none!important;
+ }
